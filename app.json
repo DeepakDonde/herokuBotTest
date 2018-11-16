@@ -1,0 +1,27 @@
+{
+    "name": "Start on Heroku: Node.js",
+    "description": "A barebones Node.js app using Express 4",
+    "repository": "https://github.com/heroku/node-js-getting-started",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+    "keywords": [
+        "node",
+        "express",
+        "heroku"
+    ],
+    "image": "heroku/nodejs",
+    "env": {
+        "LUISAPPID": "d4a49328-cd5f-4651-bcb5-e509c710af51",
+        "WEBCHAT_BOT_NAME": "TEST BOT",
+        "WEBCHAT_BOT_TITLE": "TEST BOT",
+        "WEBCHAT_BOT_DESCRIPTION": "TEST BOT",
+        "WEBCHAT_BOT_IMAGE": "TEST BOT",
+        "BOT_ID": "5babb2a42f57d460c0f9a325",
+        "USER_ID": "5a2503430f2be60fc4931ca9",
+        "MESSENGER_HOST": "e92aeeea.ngrok.io",
+        "MESSENGER_APP_ID": "236699956970474",
+        "MESSENGER_ACCESS_TOKEN": "EAADXRwDagZBoBAPETZALVVDPp9kLK5XrbdaxyXw9Shu4RQsBtlW3QSjVLrMjZCIbQhpzVCClbbZAKadIk1ZCEYzcOFIsZCB5J5YyZAgAIfiVJSi7OxsIXys6qJjZBC2anjzDpzZAJGUrcJSPCYeU6DoXfoxcgsC2ZB5LLMSRZCdLOqvOVGXpWyWA8Ht",
+        "MESSENGER_APP_SECRET": "92799cbedc795b5689d15cd4b0055887",
+        "MESSENGER_VERIFY_TOKEN": "convee_test",
+        "SERVER_URL": "https://b7d9bb08.ngrok.io"
+    }
+}
