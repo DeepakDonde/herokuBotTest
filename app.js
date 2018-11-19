@@ -43,4 +43,8 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+console.log(".env file : "+process.env);
+
+console.log("Bot id from .env file : "+process.env.BOT_ID);
+
 module.exports = app;
